@@ -1,0 +1,114 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color:#161718
+}
+.supporting-1, .supporting-3{
+  color:white;
+  margin-right:20px;
+  margin-left:20px;
+}
+
+
+.footer{
+  color:white;
+}
+
+.footer ul{
+  list-style:none;
+}
+.footer li{
+  padding-top:5px;
+  padding-bottom:5px;
+}
+
+.footer h2{
+  font-size:18px;
+}
+
+.supporting-1, .supporting-2, .supporting-3, .supporting-4{
+  padding-top:10px;
+  padding-bottom:10px;
+}
+.supporting-4{
+ padding-top:50px; background:url(https://s3.amazonaws.com/codecademy-content/projects/bass/feature.jpg) no-repeat center center;
+  background-size:cover;
+  text-align:center;
+  color:White;
+  padding-bottom:50px;
+  height:300px;
+}
+.supporting-4 img{
+  height:50px;
+  width:100px;
+}
+.supporting-4 h4{
+  font-size:18px;
+  color:white;
+	padding-top:50px;
+}
+.supporting-1 h2, .supporting-2 h2, .supporting-3 h2{
+  margin-top:50px;
+  margin-left:50px;
+  margin-right:50px;
+  
+}
+.supporting-1 img, .supporting-3 img{
+  height:300px;
+  width:400px;
+  text-align:center;
+  margin-left:50px;
+  
+}
+.supporting-2{
+  background-color:black;
+}
+.supporting-2 h2,.supporting-2 p{
+  margin-left:50px;
+  color:white;
+}
+
+.supporting-2 img{
+  height:300px;
+  width:400px;
+  margin-right:50px;
+}
+.jumbotron{
+  background:url(https://s3.amazonaws.com/codecademy-content/projects/bass/bg.jpg) no-repeat center center;
+  background-size:cover;
+  height:560px;
+}
+.header ul{
+  list-style:none;
+  
+}
+
+.jumbotron h1{
+  padding-top:50px;
+  color:white;
+  font-size:38px;
+}
+.jumbotron h2{
+  color:white;
+  font-size:18px;
+}
+img{
+  height:75px;
+  width:106px;
+}
+.header li{
+  color:white;
+  display:inline;
+  padding-left:10px;
+  padding-right:10px;
+}
+.header li a{
+  color:white;
+}
+
+.header li .btn{
+  color:white;
+  background:red;
+  border:2px solid red;
+  border-radius:2px;
+}

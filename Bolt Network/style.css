@@ -1,0 +1,162 @@
+html, body {
+  font-family: "Oxygen", sans-serif; 
+  font-weight: 300; 
+  margin: 0;
+  padding: 0;
+  background-color:#000000;
+
+}
+
+
+.jumbotron{
+  color:#fff;
+
+  background-color:#000000;
+}
+.header img{
+      width: 180px;
+    height: 34px;
+  
+}
+.header ul{
+  list-style:none;  
+}
+.thumbnail{
+  background:transparent;
+  border:none;
+  padding:0;
+  display:block;
+}
+.jumbotron .btn{
+  border-radius: 2px;
+    padding: 8px 20px;
+  display:inline-block;
+  text-align:center;
+  word-wrap:break-word;
+  white-space:normal;
+}
+.supporting .container{
+  text-align:center;
+  padding-bottom:50px;
+}
+
+.supporting h2{
+  font-size:30px;
+  color:#0393FF;
+}
+.feature {
+  background:url("https://s3.amazonaws.com/codecademy-content/projects/bolt-network/feature.jpg")  no-repeat center center;
+  background-size:cover;
+}
+.feature .container{
+  height:300px;
+	
+  text-align:center;
+}
+
+.feature h2{
+ margin-top:50px;
+  font-size:30px;
+  color: #0393FF
+}
+.feature h3{
+   margin-top:10px;
+  font-size:18px;
+  color:white;
+  
+}
+.supporting h3{
+  font-size:18px;
+  color:white;
+  padding-bottom:20px;
+}
+.form-inline .form-group{
+ 	text-align:center;
+  display:inline-block;
+}
+.form-inline .form-control{
+
+  display:inline-block;
+  vertical-align:middle;
+  background-color:transparent;
+  border:none;
+  width:100%;
+      margin: 0 20px;
+  border-bottom:1px solid white;
+  font-size:18px;
+}
+.main{
+  text-align:center;
+}
+#search{
+   width:400px;
+   max-width:770px;
+}
+.form-inline{
+  
+}
+.form-control:hover{
+  border-bottom:1px solid #0393FF;
+}
+.form-inline{
+  padding-top:50px;
+}
+.header{
+  padding-bottom:50px;
+}
+.header li{
+  display:inline;
+}
+.footer{
+  display:block;
+}
+.footer h3{
+  color:white;
+  font-size:18px;
+}
+.footer .container{
+  max-width:970px;
+}
+.footer .row{
+  margin-right:-15px;
+  margin-left:-15px;
+}
+.footer ul{
+  list-style:none;
+}
+.footer li{
+	
+  color:#0393FF
+}
+.main a{
+  text-align:center;
+ margin: 0px auto 0px auto;
+  width:100px;
+  display:block;
+}
+
+.main h1{
+  text-align:center;
+  padding-bottom:30px;
+  font-size:48px;
+}
+.btn{
+  border:1px solid #0393FF;
+  background:transparent;
+  color:#0393FF;
+}
+
+.btn:hover{
+  background-color:#0393FF;
+  border:1px solid #0393FF;
+  color:white;
+}
+.form-control:focus{
+  border:none;
+  border-bottom:1px solid #0393FF;
+  box-shadow:0px 0px 0px
+}
+
+.supporting .container {
+ 
+}
